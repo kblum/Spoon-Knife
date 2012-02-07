@@ -19,8 +19,8 @@
     <img src="forkit.gif" id="octocat" alt="Octocat fork" title="A moving picture" />
 
     <p>
-      Fork me? No, <a href="fork/index.html">fork</a> you!
-      Fork them!
+		Fork me? No, <a href="fork/index.html">fork</a> you!
+		Fork them!
     </p>
 
     <div id="rainbow-message" style="display:none">
