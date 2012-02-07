@@ -1,3 +1,5 @@
+// Main JavaScript file
+
 var keyCodes=new Array(10);
 var pattern=[38,38,40,40,37,39,37,39,66,65];
 function keydownHandler(e){
